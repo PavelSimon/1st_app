@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server built with FastMCP 2.0, providing simple utility tools for AI assistants.
 
-Importanr notice: UV and pydantic is not working on python 3.14. Need to downgrade to 3.13
+**Important notice: UV and pydantic is not working on python 3.14. Need to downgrade to 3.13**
 
 ## Features
 
